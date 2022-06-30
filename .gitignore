@@ -1,0 +1,6 @@
+node_modules
+.env
+<<<<<<< HEAD
+=======
+src/api/uploads/file
+>>>>>>> 5d0a068 (update)
